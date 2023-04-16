@@ -1,4 +1,4 @@
-# Automatic-IPE-block-for-pyautocad
+# Automatic IPE block for autoCAD
 This is a begginer's project written in python using pyautocad library. It generates an autoCAD block with the selected IPE steel beam.
 
 # USAGE:
